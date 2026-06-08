@@ -7,9 +7,9 @@ The AI decision-making analysis in this repository builds upon the 3D Tic-Tac-To
 
 I extend my sincere gratitude to the original author for sharing their work. Access to this functional codebase allowed me to build a robust testing pipeline and deeply analyze 3D search algorithms.
 
-* **Original Source:** https://github.com/adamdevigili/3D-Tic-Tac-Toe/tree/master
+* **Original Source:** https://github.com/adamdevigili/3D-Tic-Tac-Toe
 
-### My Contributions
+## My Contributions
 While the core game mechanics and baseline AI belong to the original creator, I extended and configured this repository as a comprehensive testing framework for academic evaluation. My work included:
 
 * **Test Suite Development:** Developed a comprehensive test suite simulation for the 3D Tic-Tac-Toe Java game to isolate and analyze AI decision-making patterns.
